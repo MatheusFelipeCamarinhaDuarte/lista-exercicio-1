@@ -1,7 +1,10 @@
-import React from 'react'
-
-export default function App() {
+import './App.css'
+import { Outlet } from 'react-router-dom'
+function App() {
   return (
-    <div>App</div>
+    <>
+    <Outlet/>
+    </>
   )
 }
+export default App

@@ -1,4 +1,4 @@
-export default function index() {
+export default function Produtos() {
   return (
 <main>
     h1
