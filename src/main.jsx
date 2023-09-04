@@ -2,7 +2,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Home from'./routes/Home/index.jsx'
 import Produtos from'./routes/Produtos/index.jsx'
 import Error from'./routes/Error/index.jsx'
-import EditarProduto from'./routes/EditarProdutos/Index.jsx'
+import EditarProduto from'./routes/EditarProdutos/index.jsx'
 
 import React from 'react'
 import ReactDOM from 'react-dom/client'
